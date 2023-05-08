@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sruf1
+- 👋 Hi, I’m @rufai
 - 👀 I’m interested in learning web development, mobile app development,Data Analytics.
 - 🌱 I’m currently learning Bsc. Physics with Electronics 
 - 💞️ I’m looking to collaborate on software engineering projects
