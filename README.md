@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sruf1
-- 👀 I’m interested in learning software development
+- 👀 I’m interested in learning web development, mobile app development,Data Analytics.
 - 🌱 I’m currently learning Bsc. Physics with Electronics 
 - 💞️ I’m looking to collaborate on software engineering projects
 - 📫 How to reach me; srufai40@gmail.com
